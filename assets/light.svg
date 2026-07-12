@@ -352,7 +352,7 @@
       <clipPath id="roleClip0">
         <rect x="498" y="166" height="26">
           <animate attributeName="width" calcMode="discrete"
-            values="0;0;154.79999999999998;154.79999999999998;0;0"
+            values="0;0;177.6;177.6;0;0"
             keyTimes="0;0.0;0.06999999999999999;0.16;0.2;1"
             dur="20.0s" repeatCount="indefinite"/>
         </rect>
@@ -363,7 +363,7 @@
       <clipPath id="roleClip1">
         <rect x="498" y="166" height="26">
           <animate attributeName="width" calcMode="discrete"
-            values="0;0;232.2;232.2;0;0"
+            values="0;0;260.4;260.4;0;0"
             keyTimes="0;0.2;0.27;0.36;0.4;1"
             dur="20.0s" repeatCount="indefinite"/>
         </rect>
@@ -374,7 +374,7 @@
       <clipPath id="roleClip2">
         <rect x="498" y="166" height="26">
           <animate attributeName="width" calcMode="discrete"
-            values="0;0;172.0;172.0;0;0"
+            values="0;0;196.0;196.0;0;0"
             keyTimes="0;0.4;0.47000000000000003;0.5599999999999999;0.6;1"
             dur="20.0s" repeatCount="indefinite"/>
         </rect>
@@ -385,7 +385,7 @@
       <clipPath id="roleClip3">
         <rect x="498" y="166" height="26">
           <animate attributeName="width" calcMode="discrete"
-            values="0;0;189.2;189.2;0;0"
+            values="0;0;214.39999999999998;214.39999999999998;0;0"
             keyTimes="0;0.6;0.67;0.76;0.8;1"
             dur="20.0s" repeatCount="indefinite"/>
         </rect>
@@ -396,7 +396,7 @@
       <clipPath id="roleClip4">
         <rect x="498" y="166" height="26">
           <animate attributeName="width" calcMode="discrete"
-            values="0;0;206.39999999999998;206.39999999999998;0;0"
+            values="0;0;232.79999999999998;232.79999999999998;0;0"
             keyTimes="0;0.8;0.8699999999999999;0.96;1.0;1"
             dur="20.0s" repeatCount="indefinite"/>
         </rect>
