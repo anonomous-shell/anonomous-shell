@@ -1,3 +1,13 @@
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+
+<img src="./assets/dark.svg">
+
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building AI-powered applications using RAG, LangChain, AI Agents, and LLMs, while integrating IoT systems with intelligent automation.<br><br>👯 I’m looking to collaborate on  <br>Generative AI, Agentic AI, RAG systems, IoT solutions, and impactful open-source AI projects.<br><br>🤝 I’m looking for help with  <br>Advanced AI Agents, Model Context Protocol (MCP), LLM optimization, cloud deployment, and production-scale AI systems.<br><br>🌱 I’m currently learning  <br>LangGraph, CrewAI, MCP, FastAPI, Docker, Vector Databases (FAISS, ChromaDB), AI deployment, and Edge AI for IoT.<br><br>💬 Ask me about  <br>Generative AI, LangChain, RAG, AI Agents, Python, IoT, Embedded Systems, C++, and Competitive Programming.<br><br>⚡ Fun fact  <br>I enjoy solving competitive programming problems, building intelligent IoT systems, and transforming AI ideas into real-world products.
 
